@@ -38,7 +38,7 @@
   </a>
 </div>
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="36" alt="blender logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="36" alt="unity logo"  />
