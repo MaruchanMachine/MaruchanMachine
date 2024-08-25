@@ -14,24 +14,11 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/juan-garcia-gtz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo" align="left" />
-  </a>
-  <a href="https://discord.com/users/491458574610857985" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord logo" align="left" />
-  </a>
-  <a href="https://www.instagram.com/juanan_gtz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="35" alt="instagram logo" align="left" />
-  </a>
-  <a href="https://www.facebook.com/juan.gtz.735" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="35" height="35" alt="facebook logo" align="left" />
-  </a>
-  <a href="mailto:garcia.juan.09@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="35" height="35" alt="microsoft-outlook logo" align="left" />
-  </a>
-</div>
-
+[![LinkedIn](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/linkedin.png)](https://www.linkedin.com/in/juan-garcia-gtz/)
+[![Discord](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/discordia.png)](https://discord.com/users/491458574610857985)
+[![Instagram](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/instagram.png)](https://www.instagram.com/juanan_gtz/)
+[![Facebook](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/facebook.png)](https://www.facebook.com/juan.gtz.735)
+[![Outlook](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/panorama.png)](mailto:garcia.juan.09@outlook.com)
 
 ###
 
@@ -39,8 +26,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaruchanMachine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=kacho_ga&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaruchanMachine&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=kacho_ga&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaruchanMachine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=kacho_ga&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaruchanMachine&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=kacho_ga&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
