@@ -14,11 +14,11 @@
 
 ###
 
-[![LinkedIn](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/linkedin.png)](https://www.linkedin.com/in/juan-garcia-gtz/)
-[![Discord](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/discordia.png)](https://discord.com/users/491458574610857985)
-[![Instagram](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/instagram.png)](https://www.instagram.com/juanan_gtz/)
-[![Facebook](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/facebook.png)](https://www.facebook.com/juan.gtz.735)
-[![Outlook](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/panorama.png)](mailto:garcia.juan.09@outlook.com)
+[![LinkedIn](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/linkedin.png)](https://www.linkedin.com/in/juan-garcia-gtz/)&nbsp;&nbsp;
+[![Discord](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/discordia.png)](https://discord.com/users/491458574610857985)&nbsp;&nbsp;
+[![Instagram](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/instagram.png)](https://www.instagram.com/juanan_gtz/)&nbsp;&nbsp;
+[![Facebook](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/facebook.png)](https://www.facebook.com/juan.gtz.735)&nbsp;&nbsp;
+[![Outlook](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/panorama.png)](mailto:garcia.juan.09@outlook.com)&nbsp;&nbsp;
 
 ###
 
@@ -38,7 +38,7 @@
   </a>
 </div>
 
-<div align="right">
+<div align="left">
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="36" alt="blender logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="36" alt="unity logo"  />
