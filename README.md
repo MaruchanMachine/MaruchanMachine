@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="left">Juan García</h1>
+<h1 align="left">Juan García👋</h1>
 
 ###
 
