@@ -24,8 +24,8 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaruchanMachine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" height="115" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaruchanMachine&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=blueberry&hide_border=true&order=2" height="115" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaruchanMachine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaruchanMachine&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=blueberry&hide_border=true&order=2" height="250" alt="languages graph"  />
 </div>
 
 ###
