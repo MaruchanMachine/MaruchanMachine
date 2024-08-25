@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="https://images.hive.blog/0x0/https://66.media.tumblr.com/5292137720a82134c2cd49899e480f41/tumblr_pmp6m5mJbR1ubr7g5o1_500.gif"  />
+<img align="right" height="300" src="https://images.hive.blog/0x0/https://66.media.tumblr.com/5292137720a82134c2cd49899e480f41/tumblr_pmp6m5mJbR1ubr7g5o1_500.gif"/>  
 
 ###
 
@@ -21,14 +21,21 @@
 
 ###
 
-<br clear="both">
+<br clear="both"><br>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaruchanMachine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaruchanMachine&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=blueberry&hide_border=true&order=2" height="250" alt="languages graph"  />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaruchanMachine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaruchanMachine&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=blueberry&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
+
+<div align="right">
+  <a href="https://open.spotify.com/user/22ejbyjq5sp6c4wu6vxzg3zpq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22ejbyjq5sp6c4wu6vxzg3zpq&count=3" alt="Spotify recently played"  align="right"/>
+  </a>
+</div>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="36" alt="blender logo"  />
@@ -70,11 +77,7 @@
 
 ###
 
-<div align="right">
-  <a href="https://open.spotify.com/user/22ejbyjq5sp6c4wu6vxzg3zpq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22ejbyjq5sp6c4wu6vxzg3zpq&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 ###
 
