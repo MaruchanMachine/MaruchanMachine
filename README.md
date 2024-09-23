@@ -94,6 +94,9 @@
   <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="36" alt="adobepremierepro logo"  />
   <img width="7" />
   <img src="https://cdn.simpleicons.org/markdown/000000" height="36" alt="markdown logo"  />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
 
 ###
