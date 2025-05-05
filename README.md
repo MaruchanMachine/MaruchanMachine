@@ -15,7 +15,6 @@
 ###
 
 [![LinkedIn](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/linkedin.png)](https://www.linkedin.com/in/juan-garcia-gtz/)&nbsp;&nbsp;
-[![Discord](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/discordia.png)](https://discord.com/users/491458574610857985)&nbsp;&nbsp;
 [![Instagram](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/instagram.png)](https://www.instagram.com/juanan_gtz/)&nbsp;&nbsp;
 [![Facebook](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/facebook.png)](https://www.facebook.com/juan.gtz.735)&nbsp;&nbsp;
 [![Outlook](https://raw.githubusercontent.com/MaruchanMachine/MaruchanMachine/main/icons/panorama.png)](mailto:garcia.juan.09@outlook.com)&nbsp;&nbsp;
