@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  Welcome to my GitHub profile! I am a Junior Front-End Developer passionate about creating interactive and visually appealing user interfaces. My main focus is to continuously improve my web development skills, learn new technologies, and contribute to projects that allow me to grow both personally and professionally. 🌱🚀
+  Welcome to my GitHub profile! I am a fullstack Developer. 🌱🚀
 </p>
 
 <img align="right" height="300" src="https://images.hive.blog/0x0/https://66.media.tumblr.com/5292137720a82134c2cd49899e480f41/tumblr_pmp6m5mJbR1ubr7g5o1_500.gif"/>  
