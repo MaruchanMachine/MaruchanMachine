@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Front-end developer Jr. </h3>
+<h3 align="left">Full stack developer </h3>
 
 ###
 
